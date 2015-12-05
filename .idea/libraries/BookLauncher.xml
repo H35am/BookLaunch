@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="BookLauncher">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/BookLauncher.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
